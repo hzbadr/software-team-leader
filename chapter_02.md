@@ -1,6 +1,4 @@
-## Chapter 02
-
-### 2- Elastic Leadership
+## Chapter 02:  2- Elastic Leadership
 
 #### 2-1 The role of the team leader
 The wrong definition "The team leader should provide to the team everything they need and get out of their way!"
