@@ -12,7 +12,7 @@ Loyalty grows
 
 * Challenge
 
-  To grow people means they acquire new skills, for that yuo must challenge them. Stop solving their problems.
+  To grow people means they acquire new skills, for that you must challenge them. Stop solving their problems.
 * You'r a bottleneck
 
   By solving their problems you become a bottleneck, they will not be able to manage without you.
