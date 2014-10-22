@@ -1,5 +1,5 @@
-== Chapter 01
-Striving toward a Team Leader Manifesto
+## Chapter 01
+### Striving toward a Team Leader Manifesto
 
   "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the word to himself. 
    Therefore all progress depends on the unreasonable man." 
