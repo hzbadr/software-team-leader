@@ -22,6 +22,31 @@ If your team is chasing its own tail and putting out fires instead of sitting do
   * Finding the courage to break the cycle.
 
 #### 3-2 Getting out of survival mode
-  
+To get out of survival mode, you have to worry about one thing only, cerating slack time as a standard in your work process.
+
+This means, you will have to remove some commitments (that's a risk that many team leaders are afraid to take).
+
+> If done well, management is a tough job, which is why the pay is premium "Same3 ya 7oda?". However, there will always be those managers who want to get paid for the hard parts of management work without actually doning them.
+Jerry Weinberg’s book Managing teams Congruently
+
+By creating slack time, you are not in the survival phase, you are in the learning phase.
+
+##### How much slach time do you need?
+Learning time is up to 10 time slower than normal productive time.
+If you are learning TDD, developers will be 10 times slower imlementing the same features.
+
+If you can't accommodate for such learning, perhapse you are in the survival mode.
+
+#### 3-3 Making slack time-required actions.
+How do you drag your team out of survival mode? you can start by understanding the mess you are currently in.
+
+##### Find out you cirrent commitments
+A board with three simple columns
+* A todo column
+* An in-progress column
+* A done column
+
+
+
 
 
