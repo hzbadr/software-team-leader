@@ -46,6 +46,20 @@ A board with three simple columns
 * An in-progress column
 * A done column
 
+Ask each team member what they are working on, add it to the board
+
+##### Find out your current risks
+Future Memory:
+  Ask your team "Imagine it's six month from now, and the project has failed. Why did it fail?"
+  
+Be prepared to heare some things that might surprise you. If you didn't hear anything, it's a good time for one-to-ones private meeting.
+
+Make a list with risks uncovered.
+
+##### Plan a red line
+
+
+
 
 
 
