@@ -6,11 +6,12 @@ George Bernard Shaw.
 ###  1- Striving toward a team leader manifesto
 Not easy thing to accomplish or measure
 A story how the writer failed in his job because the lack of communcation between the team and the team leader.
+
 Things that could have been done to prevent that Greek tragedy:
-1- Say "I don't know" ASAP.
-2- Daily stand-ups.
-3- A rule that no one is allowed to work on something in his own for more than one day.
-4- Team leader could have done a one-on-one meeting weekly do discover what was up.
+* Say "I don't know" ASAP.
+* Daily stand-ups.
+* A rule that no one is allowed to work on something in his own for more than one day.
+* Team leader could have done a one-on-one meeting weekly do discover what was up.
 
 1-1 Why shoud you care?
 
