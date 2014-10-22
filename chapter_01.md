@@ -21,11 +21,10 @@ Things that could have been done to prevent that Greek tragedy:
 
   A lot of developer seem to be agains going into management. They might be afraid of alot of meetings, no time to code, lose friendship ...
 
-You can make time for the things you care about. A good team leader challenges the team and the people to solve their own problems. As people learn how to solve their own peoblem, team leader will have more free time.
-
-An opportunity to learn new things everyday.
-
-Experiment with human beings.
+You can make time for the things you care about. A good team leader challenges the team and the people to solve their own problems. As people learn how to solve their own peoblem, 
+* team leader will have more free time.
+* An opportunity to learn new things everyday.
+* Experiment with human beings.
 
 Be more than one thing. You are not just a developer, you are also a team leader. How many time you said to yourself "I wish I could change X".
 
