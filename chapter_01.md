@@ -1,11 +1,9 @@
-## Chapter 01
-### Striving toward a Team Leader Manifesto
+## Chapter 01: Striving toward a Team Leader Manifesto
 
-  "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the word to himself. 
-   Therefore all progress depends on the unreasonable man." 
-   George Bernard Shaw
+  "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the word to himself. Therefore all progress depends on the unreasonable man." 
+  George Bernard Shaw
 
-  1- Striving toward a team leader manifesto
+###  1- Striving toward a team leader manifesto
     Not easy thing to accomplish or measure
     A story how the writer failed in his job because the lack of communcation between the team and the team leader.
     Things that could have been done to prevent that Greek tragedy:
@@ -14,7 +12,7 @@
       3- A rule that no one is allowed to work on something in his own for more than one day.
       4- Team leader could have done a one-on-one meeting weekly do discover what was up.
 
-    1-1 Why shouf you care?
+    1-1 Why shoud you care?
       Most team leaders suffer from the same basic bad experience. Most weren't taught how to do this type of work. May be what we are missing is some good old-fashioned people skills.
 
     1-2 Don't be afraid to become management
