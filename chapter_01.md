@@ -29,7 +29,8 @@ Experiment with human beings.
 
 Be more than one thing. You are not just a developer, you are also a team leader. How many time you said to yourself "I wish I could change X".
 
-Challenge your self and your team.
+Challenge your self and your team:
+
 1. Do one thing every day that scares you.
 2. Get rejected at least once a day.
 
