@@ -38,7 +38,7 @@ These are powerful idea to make sure you are actually learning something.
 #### 1-3 The Team Leader Manifesto
 
 http://5whys.com/manifesto
-The goal and the wat we measure our work is "the overall growth in skills of self-organaization and salf-maintenace in each member of our team and the team as a whole".
+The goal and the way we measure our work is "the overall growth in skills of self-organaization and salf-maintenace in each member of our team and the team as a whole".
 
 1. We accepts that teams needs change continuously based on their skills, so we embrace a continuously changing leadership style over one-style-fits-all leadership approach.
 2. We believe in challenging ourselved and our teams
