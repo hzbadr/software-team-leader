@@ -23,7 +23,7 @@ Things that could have been done to prevent that Greek tragedy:
 
 You can make time for the things you care about. A good team leader challenges the team and the people to solve their own problems. As people learn how to solve their own peoblem, team leader will have more free time.
 
-An ooportunity to learn new things everyday.
+An opportunity to learn new things everyday.
 
 Experiment with human beings.
 
