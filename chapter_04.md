@@ -24,7 +24,7 @@ Ravines actually ends, and you are left with a new knowledge.
 * It will teach you new skills.
 
 ##### The intern
-Personal experience, leaving a great position .NET to become and Inter as ruby developer.
+Personal experience, leaving a great position .NET to become an Inter as ruby developer.
 
 #### 4-2 Challenge your team into ravines.
 The concept of "homework", not officical, not a day-to-day task. This is a great way to teach people new skills.
