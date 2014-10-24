@@ -57,9 +57,57 @@ Be prepared to heare some things that might surprise you. If you didn't hear any
 Make a list with risks uncovered.
 
 ##### Plan a red line
+You commit to make time for your team to learn.
+
+##### How do you remove commitments?
+By letting whoever needs to know, know. Boss, Stackholders ...
+* Show them a list of current tasks in progress
+* Exmplain that many of these tasks could be avoided if the team have enough time to learn.
+* Explain yout outlook for the next few months.
+* Explain gain from this move.
+
+#### 3-4 Why slack?
+##### Remember why you are doing this
+##### The risk of loosing face in upper management.
+##### The risk of failing
+##### This is what you are being paid for.
+You are being paid to keep taking the team to the next level of performance and professionalism
+##### Realize that you are going to break your own pattern.
+A story of the pinball game score.
+##### Do not fear confrontation.
+You have to be able to say, "This is the best way I know how to run this team. Let me do my job." You should be able to say, "This is how I work. If you know someone who can do this job better and get this team to be better, you should hire them."
+
+If you accept survival mode for the way it is, it's your fault just as much as it is everyone else's fault.
+
+##### Don't despair in the face of nitpickers
 
 
+#### 3-5 Command and Control
+When the ship is sinking, the captain doesn’t call a meeting. The captain gives orders.
 
+One of the common ways to recognize such lack of skill to self-organize is that the team keeps expecting the team leader to solve all of their problems for them.
+
+##### Correct bad decisions
+No time to debate.
+##### Play to the team's strength
+Let every team member do what he they do best, not to challenge them.
+##### Get rid of disturbances.
+Bad influencers, have a one-on-one meeting with them, move hime to a separate room.
+
+#### 3-6 During the transformation you will likely need to ..
+##### Spend more time with the team.
+50% at least, move you desk to the team's room, you will be able to know when someone is stucked.
+##### Take ownership of your team.
+All tasks must go thorugh you.
+##### Learn how to say no by saying yes
+If your stackholders want a feature X, say OK but which feature on the list should be pushed down?
+##### Start a daily stand-up meetings.
+##### Understand the notion of broken windows.
+If people see an opening to do something, they will take advantage of it to eventually do whatever they want.
+Code reviewer, turns out they are a hotbed for broken windows.
+##### Do serious code reviews
+No piece of code gets checked in to source control without a code review.
+If you decide that “some code” doesn’t need to get reviewed, that’s a broken window.
 
 
 
